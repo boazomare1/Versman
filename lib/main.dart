@@ -49,6 +49,7 @@ class _HomeState extends State<Home> {
              const Divider(
                 height: 10,
               ),
+              Text("Get the best for the lowest price")
             ],
           ),
         ));
